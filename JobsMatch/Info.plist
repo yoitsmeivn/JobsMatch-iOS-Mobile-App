@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>CFBundleIdentifier</key>
+	<string>ivanseverin.JobsMatch</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <string>com.googleusercontent.apps.487521341942-3el954f7drtlqknhiogl3u375b0aql7h</string>
+            </array>
+        </dict>
+    </array>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access for sending photos in chat.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>orkney-bold.otf</string>
+		<string>orkney-regular.otf</string>
+		<string>orkney-light.otf</string>
+		<string>orkney-medium.otf</string>
+        <string>Helvetica-Bold.ttf</string>
+        <string>Helvetica-BoldOblique.ttf</string>
+        <string>Helvetica-Oblique.ttf</string>
+        <string>Helvetica.ttf</string>
+        <string>helvetica-compressed-5871d14b6903a.otf</string>
+        <string>helvetica-light-587ebe5a59211.otf</string>
+        <string>helvetica-rounded-bold-5871d05ead8de.otf</string>
+        
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>SENDBIRD_APP_ID</key>
+	<string>$(SENDBIRD_APP_ID)</string>
+	<key>SENDBIRD_API_TOKEN</key>
+	<string>$(SENDBIRD_API_TOKEN)</string>
+	<key>VITE_BACKEND_API_URL</key>
+	<string>$(VITE_BACKEND_API_URL)</string>
+</dict>
+</plist>

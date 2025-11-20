@@ -1,4 +1,4 @@
-# JobsMatch-iOS-Mobile-App
+# JobsMatch iOS Mobile App
 **JobsMatch iOS Mobile App | Ivan Severinov**
 
 JobsMatch is a modern iOS mobile application built to help students land high-quality internships and jobs through **Quick Apply**, AI-powered career tools, and a streamlined recruiting experience. With over **100+ downloads**, JobsMatch is a trusted platform for students and startups seeking top talent.
